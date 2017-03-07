@@ -1,6 +1,6 @@
 ---
 title: "AngularJs2"
-output: "my-app"
+autor: "Adriana Nascimento"
 ---
 
 # Hello World - AngularJS2
