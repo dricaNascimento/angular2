@@ -3,5 +3,5 @@ title: "AngularJs2"
 autor: "Adriana Nascimento"
 ---
 
-# Hello World - AngularJS2
+# Hello World AngularJS 2 for typescript
 
